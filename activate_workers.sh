@@ -1,0 +1,1 @@
+celery -A server_flask.workers.celery worker -l info -Q high_priority -c 4
