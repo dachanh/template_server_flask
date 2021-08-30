@@ -1,3 +1,3 @@
-# template_server_flask
+# template server flask
 
 Sample source code Flask server
